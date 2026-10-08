@@ -1,0 +1,6 @@
+order_id,customer_name,email,country,quantity,unit_price,order_date
+1001,Amina Wanjiru,amina@example.com,Kenya,5,12.50,2026-09-01
+1002,John Okello,john.okello@example.com,Uganda,10,8.75,2026-09-02
+1003,Grace Mushi,grace.mushi@example.com,Tanzania,2,45.00,2026-09-03
+1004,Eric Habimana,eric@example.com,Rwanda,20,3.20,2026-09-04
+1005,Fatuma Ali,fatuma.ali@example.com,Kenya,7,19.99,2026-09-05

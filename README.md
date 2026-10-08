@@ -9,7 +9,7 @@ Bad data quietly breaks reports, dashboards and decisions. This project is a sma
 that checks a CSV file against a defined schema and returns a clear quality report: which rows
 are wrong, why, and an overall quality score.
 
-**Live demo:** _add your link here after deploying_
+**Live demo:** **Live demo:** https://data-quality-pipeline-zggd.onrender.com/ _(free hosting: the first load after a quiet period can take about a minute)_
 
 ## What it checks
 
